@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d59e3ba-6941-4e44-81e8-cd54bb94a5d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tienda de Electronica.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Comics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Electronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/IElectronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/ILibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/IProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Libro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modelo/TvLcd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WJg11ELAWr9eS8r9MAdkYqJGbA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,6 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/migue/IdeaProjects/Tienda-electronica",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696455879579</updated>
       <workItem from="1696455880588" duration="5125000" />
+      <workItem from="1696486180251" duration="1547000" />
     </task>
     <servers />
   </component>
