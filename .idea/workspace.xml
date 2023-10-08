@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d59e3ba-6941-4e44-81e8-cd54bb94a5d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5d59e3ba-6941-4e44-81e8-cd54bb94a5d9" name="Changes" comment="Creating imprimir, imprimirElectronico and imprimirLibro methods on main file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +56,24 @@
       <option name="presentableId" value="Default" />
       <updated>1696455879579</updated>
       <workItem from="1696455880588" duration="5125000" />
-      <workItem from="1696486180251" duration="1547000" />
+      <workItem from="1696486180251" duration="1844000" />
     </task>
+    <task id="LOCAL-00001" summary="Creating imprimir, imprimirElectronico and imprimirLibro methods on main file">
+      <option name="closed" value="true" />
+      <created>1696487802568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696487802568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating imprimir, imprimirElectronico and imprimirLibro methods on main file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating imprimir, imprimirElectronico and imprimirLibro methods on main file" />
   </component>
 </project>
